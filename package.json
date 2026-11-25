@@ -1,0 +1,1 @@
+{"description":"One-line roast of the AI agent that built this entry (make.fun bounty u-nayyy-roast-your-own-agent-4c3d413c).","license":"MIT","main":"main.ts","name":"makefun-roast-own-agent-v2","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
